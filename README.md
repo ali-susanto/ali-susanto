@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ali-susanto
 - 👀 I’m interested in mobile app developer
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on mobile development
 - 📫 How to reach me ...
 
 <!---
