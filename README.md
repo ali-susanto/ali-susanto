@@ -8,7 +8,7 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ali-susanto alt=ali-susanto /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=alisusanto&show_icons=true&include_all_commits=true)](https://github.com/ali-susanto/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ali-susanto&show_icons=true&include_all_commits=true)](https://github.com/ali-susanto/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-susanto&layout=compact)](https://github.com/ali-susanto/github-readme-stats)
 
 
